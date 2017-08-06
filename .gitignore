@@ -1,4 +1,8 @@
+package-lock.json
 bower_components
 bower_components/*
 .sass-cache
 .sass-cache/*
+.gitignore
+node_modules/
+

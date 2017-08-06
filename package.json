@@ -1,0 +1,25 @@
+{
+  "name": "carwestsam_blog",
+  "version": "0.0.1-v20170806",
+  "description": "carwestsam blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carwestsam/myblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "carwestsam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carwestsam/myblog/issues"
+  },
+  "homepage": "https://github.com/carwestsam/myblog#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
